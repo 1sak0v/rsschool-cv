@@ -39,4 +39,6 @@ Internship
 May 2022 - July 2022
 Brest, Belarus 
 
+## Education
 
+* **University:** Brest State Technical University, Faculty of Electronic Information Systems, specialty Industrial Electronics 27 July 2019 - 28 June 2023
