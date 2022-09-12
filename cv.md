@@ -41,4 +41,9 @@ Brest, Belarus
 
 ## Education
 
-* **University:** Brest State Technical University, Faculty of Electronic Information Systems, specialty Industrial Electronics 27 July 2019 - 28 June 2023
+* **University:** Brest State Technical University, Faculty of Electronic Information Systems, specialty Industrial Electronics, 27 July 2019 - 28 June 2023
+
+## Language
+
+* **English:** A2
+* **Russian:** Native
