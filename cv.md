@@ -20,3 +20,15 @@ Hello, I'm Anton and I want to be a web developer. I studied at the Lyceum in th
 * Git/GitHub
 * React
 * Redux
+
+## Code example
+
+```
+function factorial(x) {
+    if (!Number.isInteger(x) || typeof x !== 'number') return "Error"
+    if (x <= 0) return 1
+    if (x === 1) return x
+    return x * factorial(x - 1)
+}
+```
+
