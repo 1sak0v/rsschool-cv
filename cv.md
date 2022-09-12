@@ -32,3 +32,11 @@ function factorial(x) {
 }
 ```
 
+## Experience
+
+**Front-end Developer** at AutoTechnoControl
+Internship
+May 2022 - July 2022
+Brest, Belarus 
+
+
